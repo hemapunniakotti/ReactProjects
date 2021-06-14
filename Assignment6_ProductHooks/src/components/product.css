@@ -1,0 +1,57 @@
+.layoutbg{
+    border-radius: 5%;
+    background: #dadce4b0;
+    color: rgb(46, 43, 43);
+    margin-left:1%;
+    height:316px;
+    width:350px;
+    margin-top:2%;
+    padding:10px;
+  }
+
+  .card-img{
+    padding:0;
+    margin: 0 auto;
+    width:100%;
+    text-align: center;
+  }
+  .card-img-top{
+    width:250px;
+    height:220px;
+  }
+  
+  .headingh1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #28346c;
+  }
+  .prices{
+    color: rgb(97, 6, 13);
+  }
+  .topTemp{
+    font-size:26px;
+    color:green;
+    font-weight: bold;
+    text-align: center;
+    width:100%
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card-body{
+    padding:0;
+    margin:0 auto;
+    text-align: center;
+    width:100%
+  }
+  .card-title{
+color:blue;
+  }
+  .card-text{
+color:green;
+  }
+  .projTitle
+  {
+    text-align: center;
+  }
