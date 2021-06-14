@@ -1,0 +1,81 @@
+{
+	"feed":[
+		{
+			"id": 1,
+			"name": "Roasted Chicken Biryani",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ylkrbzvqollrxfc5kp53",
+			"details":
+				{
+					"description": "Description of Roasted Chicken Biryani",
+					"recipe": "Warning: Please don't ..."
+				}
+			
+		},
+		{
+			"id": 2,
+			"name": "Chicken Momos",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/jjvieg2ytl9l0y0fhtri",
+			"details":
+				{
+					"description": "Description of Chicken Momos",
+					"recipe": "Funny snipet goes here"
+				}
+			
+		},
+		{
+			"id": 3,
+			"name": "Cajun Spiced Chicken",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/vx4uld2hyksrrlrmqpmg",
+			"details":
+				{
+					"description": "Description of Cajun Spiced Chicken",
+					"recipe": "Long winding description of how my uncle's best friend's grandaughter's godmother's cousin twice removed's life was saved by cajun spiced chicken followed by overly concise recipie"
+				}
+			
+		},
+		{
+			"id": 4,
+			"name": "Steamed Chicken Dumplings",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/j0uxiukml9jzpxvxbt0w",
+			"details":
+				{
+					"description": "Description of Steamed Chicken Dumplings",
+					"recipe": "Unrelated fun fact: Cicadas are adorable"
+				}
+			
+		},
+		{
+			"id": 5,
+			"name": "Immunity Booster Chole Rice Bowl",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/nqw2klwsqyfnjow5x2fy",
+			"details":
+				{
+					"description": "Description of Immunity Booster Chole Rice Bowl",
+					"recipe": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
+				}
+			
+		},
+		{
+			"id": 6,
+			"name": "Cheese Chilli Toast",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/wjfwo0mpmfs7fub7ykvp",
+			"details":
+				{
+					"description": "Description of Cheese Chilli Toast",
+					"recipe": "So here's a life lesson I learned while making this..."
+				}
+			
+		},
+		{
+			"id": 7,
+			"name": "Chicken Fry",
+			"image_url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366,h_240,c_fill/yktmfporzgu0jatkevqr",
+			"details":
+				{
+					"description": "Description of Chicken Fry",
+					"recipe": "Anyway, heres Wonderwall..."
+				}
+			
+		}
+	]
+}
