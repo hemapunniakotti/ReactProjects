@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "name": "Java 8",
+      "category": "Programming Launguages",
+      "price": 300,
+      "id": 1
+    },
+    {
+      "name": "React Certification",
+      "category": "Frontend Technologies",
+      "price": 300,
+      "id": 2
+    },
+    {
+      "name": "Google Cloud Certification",
+      "category": "Devops",
+      "price": 900,
+      "id": 3
+    },
+    {
+      "name": "Mongo DB Essentials",
+      "category": "DB Technologies",
+      "price": 700,
+      "id": 4
+    }
+  ],
+  "enquiries": [
+    {
+      "course": "Java 8",
+      "entry": "Hema",
+      "id": 1
+    },
+    {
+      "course": "React Certification",
+      "entry": "Bala",
+      "id": 2
+    }
+  ]
+}
