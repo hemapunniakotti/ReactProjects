@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 import {courseList} from '../actions';
 import {bindActionCreators} from 'redux';
 
-import CourseList from '../component/courseList';
+import CourseList from '../components/courseList';
 
 class Home extends Component{
     componentDidMount(){
@@ -12,16 +12,15 @@ class Home extends Component{
     render(){
         return(
             <div>
-                <CourseList courseData={this.props.outputcou}/>
+                <CourseList courseData={this.props.courses}/>
             </div>
         )
     }
 }
 
 function mapStateToProps(state){
-    
     return{
-        outputcou:state.courses
+        courses:state.courses
     }
 }
 

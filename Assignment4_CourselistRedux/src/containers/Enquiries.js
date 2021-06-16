@@ -21,9 +21,8 @@ class Enquiries extends Component{
 
 function mapStateToProps(state){
     console.log(state)
-    
     return{
-        outputenq:state.enquiries
+        enquiries:state.enquiries
     }
 }
 

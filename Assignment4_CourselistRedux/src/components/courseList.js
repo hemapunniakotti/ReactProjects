@@ -5,9 +5,10 @@ import {Link} from 'react-router-dom';
 
  
 const showCourses=({courseData})=>{
-    if(courseData){
+
+    if(courseData.latest){
         console.log('courseData===>',courseData);
-        const list=courseData.map((item)=><Course
+        const list=courseData.latest.map((item)=><Course
         key={item.id} name={item.name} category={item.category} price={item.price}>
         </Course>)
         return list

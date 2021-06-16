@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 const showEnquiries=({enquiryData})=>{
     console.log({enquiryData})
+
     if(enquiryData){
         
         const list=enquiryData.map((item)=><div key={item.id}>
