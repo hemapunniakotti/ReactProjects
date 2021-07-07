@@ -1,0 +1,45 @@
+{
+    "products":[
+    {
+        "_id" : 1,
+        "name" : "Vegan 1",
+        "rating" : 3.9,
+        "category" : "Vegan",
+        "price" : 8.98,
+        "delivery" : "Free 2-day delivery",
+        "image" : "https://images.happycow.net/venues/1024/11/96/hcmp119674_857964.jpeg",
+        "details" : "Kellogg’s Rice Krispies Treats Crispy Marshmallow Squares Bars 31.2oz 40 Ct"
+    },
+
+    {
+        "_id" : 2,
+        "name" : "Vegan 2",
+        "rating" : 4.1,
+        "category" : "Vegan",
+        "price" : 3.78,
+        "delivery" : "2-day delivery",
+        "image" : "https://cdn.livekindly.co/wp-content/uploads/2017/09/vegan-plant-based-news-healthy-food.jpg",
+        "details" : "Kellogg's Breakfast Cereal Mueslix, Original, Cereal Mueslix 15.3 Oz"
+    },
+    {
+        "_id" : 3,
+        "name" : "Fat free 1",
+        "rating" : 4.4,
+        "category" : "Fat Free",
+        "price" : 13.58,
+        "delivery" : "Free 2-day delivery",
+        "image" : "https://feelfitastic.com/wp-content/uploads/2014/10/Fat-Free-Snack.jpg",
+        "details" : "Quaker Instant Oatmeal Express Cups, Variety Pack, 12 Count"
+    },
+    {
+        "_id" : 4,
+        "name" : "fat free 2",
+        "rating" : 3.4,
+        "category" : "Fat Free",
+        "price" : 3.98,
+        "delivery" : "2-day delivery",
+        "image" : "https://res.cloudinary.com/grohealth/image/upload/f_auto,fl_lossy,q_auto/v1583750408/DCUK/Content/Keto-ketogenic-diet-low-carb-high-good-fat-healthy-food.jpg",
+        "details" : "Malt-O-Meal Quick Cooking Wheat Hot Cereal, Chocolate, 36 Oz"
+    }
+]
+}
